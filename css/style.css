@@ -1,0 +1,179 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+
+}
+h1{
+  color: #6D5D6E;
+  padding-top: 35px;
+}
+h2{
+  color: #6D5D6E;
+}
+.intro{
+  height:600px;
+  background-image:url('../images/wal.jpg');
+  background-size:cover;
+
+}
+p{
+  color: #40514E;
+  font-weight: bold;
+}
+#hello{
+  margin-top: 0px;
+
+}
+#span{
+  text-decoration: underline;
+}
+#picture{
+  height: 150px;
+  width: 150px;
+  margin:40px auto 20px;
+}
+.introtext{
+  display: inline-block;
+  margin: 0 auto;
+}
+#hey{
+  font-size: 70px;
+  padding-top: 200px;
+  padding-right: 200px;
+  font-weight:  bold;
+  font-family: 'Sacramento', cursive;
+
+
+}
+.skillimage{
+  width: 25%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 50px;
+
+
+}
+.skillbimage{
+  width: 25%;
+  border-radius: 100%;
+  float: right;
+  margin-left : 50px;
+
+}
+#my{
+  text-align: center;
+}
+hr{
+  border:dotted #E4DCCF 6px;
+  border-bottom: none;
+  width: 60%;
+}
+.hrw{
+  border:dotted #E4DCCF 6px;
+  border-bottom: none;
+  width: 5%;
+
+}
+#karthi{
+  font-size:30px;
+  font-family: 'Montserrat', sans-serif;
+  color: #6D5D6E;
+  padding-right: 200px;
+  font-weight: bold;
+}
+#des{
+  text-align: center;
+  padding-bottom: 30px;
+  width: 50%;
+  margin: 0 auto;
+}
+p{
+  line-height: 2;
+  text-align: justify;
+}
+.sk{
+  height: 300px;
+  width: 65%;
+  margin: auto;
+  text-align: left;
+
+}
+.skt{
+  padding-top: 30px;
+  margin-bottom: 0px;
+  text-align: left;
+  margin-top: 50px;
+}
+#ro{
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.skb{
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.skill{
+ margin-top: 50px;
+}
+.pro{
+  width: 25%;
+  height:250px;
+  border-radius: 5%;
+  float: left;
+  margin-right: 50px;
+}
+.prod{
+  width: 68%;
+  height:300px;
+  margin: 100px auto;
+  text-align: left;
+}
+.quote{
+  height: 350px;
+}
+.button{
+  background-color: #567189;
+  color: #DDDDDD;
+  border: none;
+  padding: 15px 32px;
+  border-radius: 20%;
+  text-align: center;
+  text-decoration: none;
+  font-size:16px;
+  font-family: serif;
+}
+#quo{
+  padding-bottom: 50px;
+  text-align: center;
+}
+button:hover{
+  background-color: #7B8FA1;
+  color:#EEEEEE;
+
+}
+a{
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin: 10px 20px;
+  color: #4F4557;
+  font-weight: bold;
+
+}
+.end{
+  background-color: #E4DCCF;
+  height: 200px;
+  padding-top: 40px;
+}
+#copy{
+  color: #4F4557;
+
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  text-align: center;
+}
+a:hover{
+  color:#FFF3E2;
+}
